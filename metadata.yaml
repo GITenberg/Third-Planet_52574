@@ -1,0 +1,32 @@
+_repo: Third-Planet_52574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cold War -- Fiction'
+- !lcsh 'Weapons -- Fiction'
+- !lcsh 'Nuclear warfare -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Third Planet
+url: http://www.gutenberg.org/ebooks/52574

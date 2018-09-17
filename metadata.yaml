@@ -1,5 +1,8 @@
 _repo: Third-Planet_52574
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52574-h/images/cover.jpg
 creator:
   author:
     agent_name: Leinster, Murray
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7321
     wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52574#Third-Planet
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-07-14'
 gutenberg_type: Text
